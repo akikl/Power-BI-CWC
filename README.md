@@ -7,36 +7,36 @@ Welcome to the CWC23 Dashboard Power BI Project repository! This project is an i
 Project Phases
 ## Data Processing
 
-    Data Source: Utilized Kaggle CSV files for the raw data.
-    Data Cleaning & Summarization: Employed Pandas for efficient and effective data wrangling.
-    Data Preprocessing & Visualization: Crafted a visually appealing dashboard using Power BI.
+    - Data Source: Utilized Kaggle CSV files for the raw data.
+    - Data Cleaning & Summarization: Employed Pandas for efficient and effective data wrangling.
+    - Data Preprocessing & Visualization: Crafted a visually appealing dashboard using Power BI.
 
 ### Technical Highlights
 
-    Data Cleaning & Summarization: Utilized Pandas functions for efficient data preparation.
-    Aggregated Data: Imported seamlessly into Power Query.
-    Data Modeling: Demonstrated Power Pivot in action, creating robust data models.
-    Metric Creation: Developed insightful metrics using DAX measures.
+    - Data Cleaning & Summarization: Utilized Pandas functions for efficient data preparation.
+    - Aggregated Data: Imported seamlessly into Power Query.
+    - Data Modeling: Demonstrated Power Pivot in action, creating robust data models.
+    - Metric Creation: Developed insightful metrics using DAX measures.
 
 ## DAX Functionality
 
-    Implemented advanced functions like userelationship and crossfilter in measures.
-    Rigorously tested and validated against the official ICC World Cup website.
+    - Implemented advanced functions like userelationship and crossfilter in measures.
+    - Rigorously tested and validated against the official ICC World Cup website.
 
 ## Notable Insights from CWC 2023
 
-    India's Dominance: Secured 9 wins in the group stage, reaching the semis.
-    Semifinalists: Australia, South Africa, and New Zealand showcased remarkable performances.
-    Australia's Comeback: Emerged as champions with 9 consecutive victories.
-    India's Runner-Up: Despite stellar performance, India finished as runners-up in the final.
-    Virat Kohli's Milestone: Achieved 50 centuries, surpassing Sachin Tendulkar's record.
-    Maxwell's Heroics: Scored a phenomenal 200 against Afghanistan.
-    Mohammad Shami's Record: Achieved a historic 7/57 in the semifinal against New Zealand.
-    Rohit's Selfless Knocks: Contributed to the team's success with an incredible 31 sixes!
+    - India's Dominance: Secured 9 wins in the group stage, reaching the semis.
+    - Semifinalists: Australia, South Africa, and New Zealand showcased remarkable performances.
+    - Australia's Comeback: Emerged as champions with 9 consecutive victories.
+    - India's Runner-Up: Despite stellar performance, India finished as runners-up in the final.
+    - Virat Kohli's Milestone: Achieved 50 centuries, surpassing Sachin Tendulkar's record.
+    - Maxwell's Heroics: Scored a phenomenal 200 against Afghanistan.
+    - Mohammad Shami's Record: Achieved a historic 7/57 in the semifinal against New Zealand.
+    - Rohit's Selfless Knocks: Contributed to the team's success with an incredible 31 sixes!
 
 ## Overall Metrics
 
-    Dominance of top 4 teams: India, Australia, New Zealand, and South Africa.
+    - Dominance of top 4 teams: India, Australia, New Zealand, and South Africa.
 
 Getting Started
 
